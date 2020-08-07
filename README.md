@@ -15,21 +15,31 @@ Here are some of the more interesting visualizations created in this analysis.
 
 Radar charts showing each philosopher's personality score percentiles.
 
-![Radar plot: virtue philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_virtue_stacked.svg)
-![Radar plot: virtue philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_virtue_individual.svg)
 <br>
-![Radar plot: deontological philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_deontological_stacked.svg)
-![Radar plot: deontological philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_deontological_individual.svg)
+
+![Radar plot: virtue philosophers stacked](plots/radar_virtue_stacked.svg)
 <br>
-![Radar plot: utilitarian philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_utilitarian_stacked.svg)
-![Radar plot: utilitarian philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_utilitarian_individual.svg)
+
+![Radar plot: virtue philosophers individualized](plots/radar_virtue_individual.svg)
+<br><br>
+
+![Radar plot: deontological philosophers stacked](plots/radar_deontological_stacked.svg)
+<br>
+
+![Radar plot: deontological philosophers individualized](plots/radar_deontological_individual.svg)
+<br><br>
+
+![Radar plot: utilitarian philosophers stacked](plots/radar_utilitarian_stacked.svg)
+<br>
+
+![Radar plot: utilitarian philosophers individualized](plots/radar_utilitarian_individual.svg)
 <br>
 <br>
 <br>
 
 A distance heatmap calculated using the pair-wise distance between philosophers in the 5-D personality trait space. It shows how different/close the philosophers are, both within and between the categories of ethic type.
 
-![Heatmap: distance between ethics groups](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/distances_groups.svg)
+![Heatmap: distance between ethics groups](https://github.com/josh-hm/philosopher_personalities/blob/master/plots/distances_groups.svg)
 
 ### Disclaimer
 
