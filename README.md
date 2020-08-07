@@ -1,5 +1,7 @@
 # Introduction
-I analyzed the personalities of fifteen philosophers, operationalized by their [Big Five personality scores](https://cloud.ibm.com/docs/personality-insights?topic=personality-insights-models). Personality scores were calculated using [IBM's Watson Personality Insights API](https://www.ibm.com/watson/services/personality-insights/).
+I analyzed the personalities of fifteen philosophers, and the relationship between their personalities their ethical beliefs.
+
+Personality was operationalized by their [Big Five personality scores](https://cloud.ibm.com/docs/personality-insights?topic=personality-insights-models), and the scores were calculated using [IBM's Watson Personality Insights API](https://www.ibm.com/watson/services/personality-insights/).
 
 Philosophers were split into three groups, in terms of the fundamental type of ethics they endorsed: Virtue Ethics (_i.e_ character-based), Deontological Ethics (_i.e._ duty-based), and Utilitarian Ethics (_i.e._ consequence-based).
 
