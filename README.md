@@ -13,7 +13,8 @@ The analysis indicated that there is no significant relationship between a philo
 
 Here are some of the more interesting visualizations created in this analysis.
 
-Radar charts showing each philosopher's personality score percentiles.
+## Radar charts
+Showing each philosopher's personality score percentiles.
 
 <br>
 
@@ -37,7 +38,9 @@ Radar charts showing each philosopher's personality score percentiles.
 <br>
 <br>
 
-A distance heatmap calculated using the pair-wise distance between philosophers in the 5-D personality trait space. It shows how different/close the philosophers are, both within and between the categories of ethic type.
+## Distance heatmap 
+
+Calculated using the pair-wise distance between philosophers in the 5-D personality trait space. It shows how different/close the philosophers are, both within and between the categories of ethic type.
 
 ![Heatmap: distance between ethics groups](https://github.com/josh-hm/philosopher_personalities/blob/master/plots/distances_groups.svg)
 
