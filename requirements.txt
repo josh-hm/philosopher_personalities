@@ -1,0 +1,12 @@
+ibm-cloud-sdk-core==1.5.1
+ibm-watson==4.5.0
+matplotlib==3.3.0
+numpy==1.19.0
+pandas==1.0.5
+patsy==0.5.1
+PyPDF2==1.26.0
+scikit-learn==0.23.1
+scipy==1.5.2
+seaborn==0.10.1
+statsmodels==0.11.1
+textract==1.6.3
