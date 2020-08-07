@@ -15,18 +15,24 @@ Here are some of the more interesting visualizations created in this analysis.
 
 Radar charts showing each philosopher's personality score percentiles.
 
-![Radar plot: virtue philosophers stacked](https://github.com/josh-hm/philosopher_personalities/plots/radar_virtue_stacked.svg)
-![Radar plot: virtue philosophers individualized](https://github.com/josh-hm/philosopher_personalities/plots/radar_virtue_individual.svg)
+![Radar plot: virtue philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_virtue_stacked.svg)
+![Radar plot: virtue philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_virtue_individual.svg)
 <br>
-![Radar plot: deontological philosophers stacked](https://github.com/josh-hm/philosopher_personalities/plots/radar_deontological_stacked.svg)
-![Radar plot: deontological philosophers individualized](https://github.com/josh-hm/philosopher_personalities/plots/radar_deontological_individual.svg)
+![Radar plot: deontological philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_deontological_stacked.svg)
+![Radar plot: deontological philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_deontological_individual.svg)
 <br>
-![Radar plot: utilitarian philosophers stacked](https://github.com/josh-hm/philosopher_personalities/plots/radar_utilitarian_stacked.svg)
-![Radar plot: utilitarian philosophers individualized](https://github.com/josh-hm/philosopher_personalities/plots/radar_utilitarian_individual.svg)
+![Radar plot: utilitarian philosophers stacked](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_utilitarian_stacked.svg)
+![Radar plot: utilitarian philosophers individualized](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/radar_utilitarian_individual.svg)
 <br>
 <br>
 <br>
 
 A distance heatmap calculated using the pair-wise distance between philosophers in the 5-D personality trait space. It shows how different/close the philosophers are, both within and between the categories of ethic type.
 
-![Heatmap: distance between ethics groups](https://github.com/josh-hm/philosopher_personalities/plots/distances_groups.svg)
+![Heatmap: distance between ethics groups](https://github.com/josh-hm/philosopher_personalities/tree/master/plots/distances_groups.svg)
+
+### Disclaimer
+
+I make no claims that the personality analyses reflect the actual personalities of the philosphers reviewed in this study.
+
+I found all philosophic works via resource sites such as Google Scholar and Project Gutenberg. If you believe my use and posting the texts here is in violation of your copyright(s), please contact me.
