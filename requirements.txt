@@ -1,7 +1,7 @@
 ibm-cloud-sdk-core==1.5.1
 ibm-watson==4.5.0
 matplotlib==3.3.0
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 patsy==0.5.1
 PyPDF2==1.26.0
